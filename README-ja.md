@@ -1,5 +1,7 @@
 # こんにちは！👋
 
+[English](https://github.com/shiron4710/shiron4710/blob/main/README.md)
+
 私は@shiron4710です。さまざまな分野に興味を持つ情熱的な学生です。
 私のGitHubプロファイルへようこそ！
 

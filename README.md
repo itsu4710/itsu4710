@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+[Japanese](https://github.com/shiron4710/shiron4710/blob/main/README-ja.md)
+
 I'm @shiron4710, a passionate student interested in diverse areas. Welcome to my GitHub profile!
 
 ## About Me
